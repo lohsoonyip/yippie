@@ -9,7 +9,10 @@
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 
 <br>
----
+<p>This project is just a visualisation of data using Excel
+  
+--------------------------------------------------
+  
 [Project 2 Visualisation of Data EDA,SQL and Excel](/pdf/sample_presentation.pdf)
 <img src="images/Screenshot_cap2.png?raw=true"/>
 
