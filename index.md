@@ -4,7 +4,7 @@
 
 ### My projects : Data Analysis 
 
-[Project 1 Visualisation of Data using Excel](/Cap1/Capstone_1_Retail_Sales_Analysis.pdf)
+[Project 1 Visualisation of Data using Excel](/Cap1)
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 
 <br>
