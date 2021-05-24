@@ -7,6 +7,7 @@
 [Project 1 Visualisation of Data](/sample_page)
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 <a href="url">Visua_web.htm</a>
+<br>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
