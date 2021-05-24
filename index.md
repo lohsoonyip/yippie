@@ -3,9 +3,9 @@
 ---
 
 ### My projects : Data Analysis 
-<h2>
+
 [Project 1 Visualisation of Data using Excel](/cap1/Capstone_1_Retail_Sales_Analysis.pdf)
-  </h2>
+
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 
 <br>
