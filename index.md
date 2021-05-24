@@ -4,9 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Visualisation of Data](/Visual_web_files)
+[Project 1 Visualisation of Data using Excel]
 <img src="images/Screenshot_Cap1.png?raw=true"/>
-<a href="Visual_web.htm">Interactive page</a>
+
 <br>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
