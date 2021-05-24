@@ -4,9 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Visualisation of Data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<a href="url">Visua_web.html</a>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
