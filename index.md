@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Visualisation of Data](/sample_page)
+[Project 1 Visualisation of Data](/Visual_web_files)
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 <a href="url">Visua_web.htm</a>
 <br>
