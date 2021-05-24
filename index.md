@@ -17,7 +17,8 @@
 <img src="images/Screenshot_cap2.png?raw=true"/>
 
 <p> Project 2 is understanding the data through EDA. The data is uploaded into MsSQL and tables and ER diagram created. Visualisation is done with Excel accessing SQL
-<br>
+
+  <br>
 --------------------------------------------------
   
 <br>
