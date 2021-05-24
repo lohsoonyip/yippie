@@ -9,10 +9,11 @@
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 
 <p>This project above is just a visualisation of data using Excel using public available data to show visualisation and insight</p>
-  <br>
+<br>
 --------------------------------------------------
   
 [Project 2 Visualisation of Data EDA,SQL and Excel](/cap2/Journal.pdf)
+
 <img src="images/Screenshot_cap2.png?raw=true"/>
 
 <p> Project 2 is understanding the data through EDA. The data is uploaded into MsSQL and tables and ER diagram created. Visualisation is done with Excel accessing SQL
