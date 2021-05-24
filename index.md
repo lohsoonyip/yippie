@@ -3,14 +3,16 @@
 ---
 
 ### My projects : Data Analysis 
-
-[Project 1 Visualisation of Data using Excel](/cap1/Capstone_1_Retail_Sales_Analysis.pdf)
+<h2>
+[Project 1 Visualisation of Data using Excel]
+  <p>(/cap1/Capstone_1_Retail_Sales_Analysis.pdf)</p>
+  </h2>
 <img src="images/Screenshot_Cap1.png?raw=true"/>
 
 <br>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Visualisation of Data EDA,SQL and Excel](/pdf/sample_presentation.pdf)
+<img src="images/Screenshot_cap2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
