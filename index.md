@@ -6,7 +6,7 @@
 
 [Project 1 Visualisation of Data](/Visual_web_files)
 <img src="images/Screenshot_Cap1.png?raw=true"/>
-</p><a href="Visua_web.htm">Interactive page</a></p>
+<a href="Visua_web.htm">Interactive page</a>
 <br>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
